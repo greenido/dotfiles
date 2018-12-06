@@ -1,8 +1,4 @@
-# Tim's Dotfiles
-
-These are my dotfiles.
-
-On a mission to version control everything I possibly can. Not only does this make tinkering easier (I can always revert), it makes setting up a new machine a cinch! You're welcome future Tim!
+### A collection of dotfiles
 
 ## Topical
 
@@ -16,7 +12,7 @@ symlinked without extension into `$HOME` when you run `script/bootstrap`.
 
 Lots of stuff. Check them out in the file browser
 above and see what components may mesh up with you.
-[Fork it](https://github.com/smithtimmytim/dotfiles/fork), remove what you don't
+[Fork it](https://github.com/greenido/dotfiles/fork), remove what you don't
 use, and build on what you do use.
 
 ## Components
@@ -42,7 +38,7 @@ There's a few special files in the hierarchy.
 Run this:
 
 ```sh
-git clone git@github.com:smithtimmytim/dotfiles.git ~/.dotfiles
+git clone git@github.com:greenido/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
@@ -66,7 +62,7 @@ said, I do use this as *my* dotfiles, so there's a good chance I may break
 something if I forget to make a check for a dependency.
 
 If you're brand-new to the project and run into any blockers, please
-[open an issue](https://github.com/smithtimmytim/dotfiles/issues) on this repository
+[open an issue](https://github.com/greenido/dotfiles/issues) on this repository
 and I'll try to help you out!
 
 ## Thanks
