@@ -1,6 +1,6 @@
-### A collection of dotfiles
+### A collection of dotfiles 🌊
 
-## Topical
+## Topics 🏝
 
 Everything's built around topic areas. If you're adding a new area to your
 forked dotfiles — say, "Java" — you can simply add a `java` directory and put
@@ -8,14 +8,7 @@ files in there. Anything with an extension of `.zsh` will get automatically
 included into your shell. Anything with an extension of `.symlink` will get
 symlinked without extension into `$HOME` when you run `script/bootstrap`.
 
-## What's Inside
-
-Lots of stuff. Check them out in the file browser
-above and see what components may mesh up with you.
-[Fork it](https://github.com/greenido/dotfiles/fork), remove what you don't
-use, and build on what you do use.
-
-## Components
+## Components 🧭
 
 There's a few special files in the hierarchy.
 
@@ -33,7 +26,7 @@ There's a few special files in the hierarchy.
   but still keep those autoloaded files in your home directory. These get
   symlinked in when you run `script/bootstrap`.
 
-## Install
+## Install ✍
 
 Run this:
 
@@ -54,7 +47,7 @@ defaults, and so on. Tweak this script, and occasionally run `dot` from
 time to time to keep your environment fresh and up-to-date. You can find
 this script in `bin/`.
 
-## Bugs
+## Bugs 🐞
 
 I want this to work for everyone; that means when you clone it down it should
 work for you even though you may not have `rbenv` installed, for example. That
@@ -65,6 +58,6 @@ If you're brand-new to the project and run into any blockers, please
 [open an issue](https://github.com/greenido/dotfiles/issues) on this repository
 and I'll try to help you out!
 
-## Thanks
+## Thanks 👍🏽
 
 I forked [Holman's](https://github.com/holman/dotfiles) awesome dotfiles and it really helped me get started. I've customized some, but boy did he have some awesome stuff.
